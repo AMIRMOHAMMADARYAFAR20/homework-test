@@ -1,0 +1,33 @@
+table,th,td {
+border-top: 1px solid rgba(240, 231, 231, 0.521);
+border-bottom: 1px solid rgba(240, 231, 231, 0.521);
+border-collapse:collapse;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+body{
+margin-left: 0px;
+margin-right: 0px;
+font-family: Verdana;
+font-size: 12px;
+text-align: center;
+}
+
+table {
+padding-left: 0;
+padding-right: 0;
+width: 100%;
+}
+
+
+#odd-row {
+background-color: rgb(245, 244, 244);
+}
+
+#main-row {
+background-color: rgba(28, 138, 241, 0.877);
+color: white;
+    }
+
+ 

@@ -1,0 +1,28 @@
+table,th,td {
+    border: 1px solid rgba(240, 231, 231, 0.521);
+    border-collapse:collapse;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+body{
+margin-left: 3px;
+margin-right: 3px;
+font-family: Verdana;
+font-size: 12px;
+}
+
+table {
+padding-left: 0;
+padding-right: 0;
+width: 100%;
+}
+
+  .sort-place {
+text-align: left;
+}
+
+#odd-row {
+background-color: rgb(245, 244, 244);
+}
+
